@@ -3,7 +3,9 @@ The source code of PCLPSO algorithm
 
 **Author**： Xiaoyu Liu ， Qingke Zhang*（Corresponding Author）， Jiajun Sun， Huaxiang Zhang
 
-**Addr.**: School of Information Science and Engineering, Shandong Normal University, Jinan, 250358, China
+**Aff.**: 
+1) School of Information Science and Engineering, Shandong Normal University, Jinan, 250358, China 
+2) School of Science and Engineering, The Chinese University of Hong Kong （Shenzhen）， Shenzhen, 518172, China
 
 ### Abstract
 Social Learning Particle Swarm Optimization （SLPSO） is an advanced variant of the PSo algorithm, designed to enhance optimization performance in Large-Scale Global
