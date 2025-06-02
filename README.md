@@ -1,6 +1,8 @@
 # PCLPSO
 The source code of PCLPSO algorithm
 
+
+
 **Author**： Xiaoyu Liu ， Qingke Zhang*（Corresponding Author）， Jiajun Sun， Huaxiang Zhang
 
 **Aff.**: 
@@ -18,3 +20,6 @@ as several advanced and classical PSO and DE variants, and the latest cooperativ
 is applied to the biological Multiple Sequence Alignment （MSA） problem using Hidden Markov Models （HMM）， where it exhibits superior performance compared to other state-of-
 the-art metaheuristic algorithms. In summary, the study presents a robust optimization tool that advances the field of LSGO and shows promise for addressing complex real-world
 optimization challenges. The source code of the PCLSO algorithm is publicly available at https://github.com/tsingke/PCLPSO.
+
+
+Note： The paper has been accepted for publication in the Journal 《Applied Intelligence》
