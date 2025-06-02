@@ -1,4 +1,4 @@
-# PCLPSO
+# PCLSO
 The source code of PCLPSO algorithm
 
 
