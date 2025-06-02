@@ -1,7 +1,7 @@
 # PCLSO
 Paper Title：**Pulse-strategy collective Learning swarm optimizer for Large-scale global optimization**
 
-**Author**： Xiaoyu Liu ， Qingke Zhang*（Corresponding Author）， Jiajun Sun， Huaxiang Zhang
+**Author**： Xiaoyu Liu ， Qingke Zhang*（Corresponding Author）， Shuzhao Pang，Jiajun Sun， Huaxiang Zhang
 
 **Aff.**: School of Information Science and Engineering, Shandong Normal University, Jinan, 250358, China 
 
